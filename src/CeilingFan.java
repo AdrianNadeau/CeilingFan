@@ -128,7 +128,7 @@ public class CeilingFan {
 
 
         IntStream.range(0, 10).forEach(i -> {
-            // Your code here, where 'i' is the current iteration value
+            
             boolean boolConfirmRandom = randomCord.nextBoolean();
             int boolPulledCord = boolConfirmRandom ? 1 : 2;
 
