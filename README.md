@@ -23,10 +23,10 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The following java libraries are required to run the project java classes:
-o   java.util.Random;
-o   java.util.stream.IntStream;
+- java.util.Random
+- java.util.stream.IntStream;
 
 The following java libraries are required to run the junit java classes:
-o   org.junit.Before
-o   org.junit.Test
-o   org.junit.Assert
+- org.junit.Before
+- org.junit.Test
+- org.junit.Assert
