@@ -1,5 +1,10 @@
+package test.java;
+
 import org.junit.Before;
 import org.junit.Test;
+
+import main.java.ceilingfan.CeilingFan;
+
 import static org.junit.Assert.*;
  /**
  * The class Ceiling fan test

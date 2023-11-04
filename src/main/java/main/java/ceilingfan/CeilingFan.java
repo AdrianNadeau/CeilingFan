@@ -1,3 +1,5 @@
+package main.java.ceilingfan;
+
 /**
 <p>Tests 2 cords on a ceiling fan</p>
 * This class keeps the speed and direction of the fan when each cord is pulled
