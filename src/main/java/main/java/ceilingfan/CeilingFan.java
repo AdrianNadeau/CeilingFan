@@ -1,5 +1,8 @@
 package main.java.ceilingfan;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 /**
 <p>Tests 2 cords on a ceiling fan</p>
 * This class keeps the speed and direction of the fan when each cord is pulled
@@ -16,6 +19,7 @@ import java.util.stream.IntStream;
 public class CeilingFan {
     private int totalSpeed; // 0 for off, 1 for low, 2 for medium, 3 for high
     private boolean isReversed; // cord 2 reverses the fan in the opposite direction ("reversed") 
+    private static Logger LOGGER = LoggerFactory.getLogger(CeilingFan.class);
 /** 
  *
  * Constructor. 
@@ -33,7 +37,7 @@ public class CeilingFan {
  *
  */
     public void pullFanCord1() { 
-        System.out.println("Cord 1 pulled");
+        LOGGER.info("CORD 1 pulled");
         if (totalSpeed >= 3) {
             totalSpeed = 0; // turn off (status 0)
         } else {
@@ -46,7 +50,7 @@ public class CeilingFan {
  *   @param isReversed
  */
     public void pullFanCord2() { 
-        System.out.println("Cord 2 pulled");
+        LOGGER.info("CORD 2 pulled");
         isReversed = !isReversed; // Reverse the fan direction
     }
 /** 
@@ -55,7 +59,8 @@ public class CeilingFan {
  *
  */
     public void displayMessage() { 
-        System.out.println("Total Speed: " + getTotalSpeed() + ", Direction: " + (isReversed ? "Reversed" : "Forward"));
+        LOGGER.info("Total Speed: " + getTotalSpeed() + ", Direction: " + (isReversed ? "Reversed" : "Forward"));
+        
     }
 /** 
  *

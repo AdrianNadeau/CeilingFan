@@ -7,7 +7,7 @@
     <property name="java.specification.version" value="1.8"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="c:\Users\adria\repos\CeilingFan\target\test-classes;c:\Users\adria\repos\CeilingFan\target\classes;C:\Users\adria\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\adria\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.class.path" value="C:\Users\adria\repos\CeilingFan\target\test-classes;C:\Users\adria\repos\CeilingFan\target\classes;C:\Users\adria\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\adria\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\adria\.m2\repository\org\slf4j\slf4j-api\2.0.9\slf4j-api-2.0.9.jar;C:\Users\adria\.m2\repository\org\slf4j\slf4j-simple\2.0.9\slf4j-simple-2.0.9.jar;"/>
     <property name="java.vm.vendor" value="Temurin"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -18,20 +18,20 @@
     <property name="user.country" value="CA"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-8.0.392.8-hotspot\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\adria\AppData\Local\Temp\surefire3441023375110121142\surefirebooter-20231104192014470_3.jar C:\Users\adria\AppData\Local\Temp\surefire3441023375110121142 2023-11-04T19-20-14_244-jvmRun1 surefire-20231104192014470_1tmp surefire_0-20231104192014470_2tmp"/>
-    <property name="surefire.test.class.path" value="c:\Users\adria\repos\CeilingFan\target\test-classes;c:\Users\adria\repos\CeilingFan\target\classes;C:\Users\adria\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\adria\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.java.command" value="C:\Users\adria\AppData\Local\Temp\surefire8797634518263922770\surefirebooter-20231106165520756_3.jar C:\Users\adria\AppData\Local\Temp\surefire8797634518263922770 2023-11-06T16-55-20_530-jvmRun1 surefire-20231106165520756_1tmp surefire_0-20231106165520756_2tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\adria\repos\CeilingFan\target\test-classes;C:\Users\adria\repos\CeilingFan\target\classes;C:\Users\adria\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\adria\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\adria\.m2\repository\org\slf4j\slf4j-api\2.0.9\slf4j-api-2.0.9.jar;C:\Users\adria\.m2\repository\org\slf4j\slf4j-simple\2.0.9\slf4j-simple-2.0.9.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\adria"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="java.home" value="C:\Program Files\Eclipse Adoptium\jdk-8.0.392.8-hotspot\jre"/>
-    <property name="basedir" value="c:\Users\adria\repos\CeilingFan"/>
+    <property name="basedir" value="C:\Users\adria\repos\CeilingFan"/>
     <property name="file.separator" value="\"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\adria\AppData\Local\Temp\surefire3441023375110121142\surefirebooter-20231104192014470_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\adria\AppData\Local\Temp\surefire8797634518263922770\surefirebooter-20231106165520756_3.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Eclipse Adoptium\jdk-8.0.392.8-hotspot\jre\lib\resources.jar;C:\Program Files\Eclipse Adoptium\jdk-8.0.392.8-hotspot\jre\lib\rt.jar;C:\Program Files\Eclipse Adoptium\jdk-8.0.392.8-hotspot\jre\lib\sunrsasign.jar;C:\Program Files\Eclipse Adoptium\jdk-8.0.392.8-hotspot\jre\lib\jsse.jar;C:\Program Files\Eclipse Adoptium\jdk-8.0.392.8-hotspot\jre\lib\jce.jar;C:\Program Files\Eclipse Adoptium\jdk-8.0.392.8-hotspot\jre\lib\charsets.jar;C:\Program Files\Eclipse Adoptium\jdk-8.0.392.8-hotspot\jre\lib\jfr.jar;C:\Program Files\Eclipse Adoptium\jdk-8.0.392.8-hotspot\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -47,7 +47,7 @@
     <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
     <property name="java.io.tmpdir" value="C:\Users\adria\AppData\Local\Temp\"/>
     <property name="java.version" value="1.8.0_392"/>
-    <property name="user.dir" value="c:\Users\adria\repos\CeilingFan"/>
+    <property name="user.dir" value="C:\Users\adria\repos\CeilingFan"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
@@ -61,18 +61,18 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="testPullCord1" classname="test.java.CeilingFanTest" time="0.013">
-    <system-out><![CDATA[Cord 1 pulled
-Cord 1 pulled
-Cord 1 pulled
-Cord 1 pulled
-Cord 1 pulled
-]]></system-out>
+  <testcase name="testPullCord1" classname="test.java.CeilingFanTest" time="0.022">
+    <system-err><![CDATA[[main] INFO main.java.ceilingfan.CeilingFan - CORD 1 pulled
+[main] INFO main.java.ceilingfan.CeilingFan - CORD 1 pulled
+[main] INFO main.java.ceilingfan.CeilingFan - CORD 1 pulled
+[main] INFO main.java.ceilingfan.CeilingFan - CORD 1 pulled
+[main] INFO main.java.ceilingfan.CeilingFan - CORD 1 pulled
+]]></system-err>
   </testcase>
-  <testcase name="testPullCord2" classname="test.java.CeilingFanTest" time="0.0">
-    <system-out><![CDATA[Cord 2 pulled
-Cord 2 pulled
-Cord 2 pulled
-]]></system-out>
+  <testcase name="testPullCord2" classname="test.java.CeilingFanTest" time="0.002">
+    <system-err><![CDATA[[main] INFO main.java.ceilingfan.CeilingFan - CORD 2 pulled
+[main] INFO main.java.ceilingfan.CeilingFan - CORD 2 pulled
+[main] INFO main.java.ceilingfan.CeilingFan - CORD 2 pulled
+]]></system-err>
   </testcase>
 </testsuite>
